@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "348658106005",
+    "firebase_url": "https://pickeep-7d7a0.firebaseio.com",
+    "project_id": "pickeep-7d7a0",
+    "storage_bucket": "pickeep-7d7a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348658106005:android:a99158e7a10887c39be59c",
+        "android_client_info": {
+          "package_name": "com.edu.uac.pickeep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348658106005-005ilrneatkf6vhd5kmt9l8n3no4qmvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edu.uac.pickeep",
+            "certificate_hash": "0b271ad947fab8e92c0239a33572a9b686df4992"
+          }
+        },
+        {
+          "client_id": "348658106005-ei13lurqkgrkcps20k7t5923rb1a5po1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0Pe1AXQJ1LGF2h_2py3oqJu-q8xZAO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348658106005-qi1b01jdmk2urbbtt9tlreio97ib2749.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
